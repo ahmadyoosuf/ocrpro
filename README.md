@@ -2,6 +2,12 @@
 
 A premium, state-of-the-art document intelligence platform built with Next.js 14. Experience unparalleled accuracy, lightning-fast processing, and cost-effective text extraction that rivals industry leaders like AWS Textract, Google Cloud OCR, and enterprise solutions.
 
+## 🌐 Live Demo
+
+**🚀 [Try VisionText Pro Live](https://ocrpro.vercel.app)**
+
+Experience the power of enterprise-grade OCR technology directly in your browser.
+
 ## ✨ Features
 
 - 🚀 **Premium UI/UX** - Sophisticated dark theme with glass morphism and smooth animations
