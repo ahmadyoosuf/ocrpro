@@ -38,8 +38,8 @@ Experience the power of enterprise-grade OCR technology directly in your browser
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd ocrr
+   git clone https://github.com/ahmadyoosuf/ocrpro.git
+   cd ocrpro
    ```
 
 2. **Install dependencies**
@@ -173,13 +173,6 @@ VisionText Pro delivers enterprise-grade OCR that competes with:
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## 🆘 Support
-
-For enterprise support and inquiries:
-- Create an issue on GitHub
-- Review the comprehensive documentation
-- Contact our enterprise team
 
 ---
 
